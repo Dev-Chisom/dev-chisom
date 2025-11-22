@@ -2,7 +2,7 @@
 ### **Senior AI Engineer (LLM & RAG Systems) | Software Engineer**
 
 I build **production-grade AI applications**, intelligent agents, Retrieval-Augmented Generation (RAG) systems, vector search pipelines, and scalable web platforms.  
-With 5+ years of engineering experience in **fintech, logistics, and HRTech**, I specialize in bringing LLM-powered features from **idea → architecture → production**.
+With years of engineering experience in **fintech, logistics, and HRTech**, I specialize in bringing LLM-powered features from **idea → architecture → production**.
 
 My work sits at the intersection of **AI, software engineering, and automation**, and I’m passionate about building systems that solve real problems at scale.
 
