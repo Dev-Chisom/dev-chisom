@@ -55,9 +55,6 @@ Sub-second streaming chat using SSE and OpenAI/Claude.
 ### **AI Automation Pipelines**  
 n8n workflows, text classification, ETL jobs, and model monitoring.
 
-> Want me to generate a polished README for any specific repo?  
-> Just tell me the repo name.
-
 ---
 
 ```md
